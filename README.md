@@ -1,1 +1,1 @@
-http://designbsg.github.io/
+designbsg.github.io/
